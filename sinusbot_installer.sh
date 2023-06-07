@@ -1,7 +1,4 @@
 #!/bin/bash
-# SinusBot installer by Philipp Eßwein - DAThosting.eu philipp.esswein@dathosting.eu
-
-# Vars
 
 MACHINE=$(uname -m)
 Instversion="1.5"
